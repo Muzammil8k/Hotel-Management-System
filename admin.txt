@@ -1,0 +1,3 @@
+admin|admin
+Muzammil Malik|malik123
+root|root@123

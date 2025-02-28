@@ -1,0 +1,20 @@
+Room Package|Standard Package|2500
+Room Package|Deluxe Package|4000
+Room Package|Suite Package|8000
+Room Type|Single Room|500
+Room Type|Double Room|1000
+Room Type|Family Room|1500
+Cab|Sedan|15
+Cab|SUV|25
+Cab|Luxury|40
+Food|1|Fast Food|Burger|450
+Food|2|Fast Food|Pizza|990
+Food|3|Fast Food|Chicken Sandwich|320
+Food|4|Fast Food|Fries|250
+Food|5|Desi|Biryani|510
+Food|6|Desi|Haleem|400
+Food|7|Desi|Nihari|500
+Food|9|Drink|Lemonade|150
+Food|10|Drink|Cold Coffee|300
+Food|11|Drink|Lassi |200
+Food|12|Drink|Tea|150

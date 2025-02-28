@@ -1,0 +1,11 @@
+1001|Mubashir Ali|123456|20|male|03213567890|Rawalpindi
+1002|Ayesha Khan|abc@123|25|female|03123456789|Karachi
+1003|Ali Ahmed|password1|30|male|03456789012|Lahore
+1004|Sania Malik|qwerty@321|22|female|03398765432|Islamabad
+1005|Bilal Raza|mypassword|28|male|03289876543|Rawalpindi
+1006|Fatima Hussain|secure#456|24|female|03156898765|Faisalabad
+1007|Hassan Tariq|Hass@2025|32|male|03451234567|Multan
+1008|Sara Iqbal|test@789|26|female|03345678901|Quetta
+1009|Zain Sheikh|pass1234|27|male|03167234567|Peshawar
+1010|Mariam Zafar|mariam@987|23|female|03323456789|Sialkot
+1011|Muzammil Malik|123|20|male|093478234|Rawalpindi
